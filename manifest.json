@@ -1,0 +1,13 @@
+{
+  "name": "D&D Character Manager",
+  "description": "Manage your D&D characters simply and effectively while playing.",
+  "version": "1",
+  "app": {
+    "launch": {
+      "local_path": "manager.html"
+    }
+  },
+  "icons": {
+    "128": "CM_icon.png"
+  }
+}
